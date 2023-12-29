@@ -11,7 +11,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - CSS Grid
 
 <p align="center">
-  <img alt="Sign Up form" src="./assets/capa.PNG" width="90%">
+  <img alt="Sign Up form" src="./assets/capa.PNG" width="90%"><br>
   Desktop version.
 </p>
 
